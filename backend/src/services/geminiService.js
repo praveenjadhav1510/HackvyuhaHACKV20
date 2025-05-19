@@ -2,7 +2,7 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 const dotenv = require("dotenv");
 dotenv.config();
 
-const genAI = new GoogleGenerativeAI("AIzaSyDWSMCFJQvHV-mZhz_z9plMPWjFzvl5FpA"); // Use your actual key securely
+const genAI = new GoogleGenerativeAI(""); // Use your actual key securely
 
 function sanitizeText(text) {
   return text
