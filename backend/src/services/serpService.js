@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const SERP_API_KEY ="70319d22074dd294e3f4c70eec01f00d1a9cef326cde6a26ce70c97e7b5f8d30";
+const SERP_API_KEY ="";
 
 async function searchLinkedInProfile(fullName, email = '') {
   const query = `site:linkedin.com/in "${fullName}" ${email}`.trim();
