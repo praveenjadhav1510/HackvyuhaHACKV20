@@ -1,7 +1,3 @@
-Here’s a short and clear GitHub README content for your **TalentSleuth AI** project, including setup and API key instructions:
-
----
-
 # TalentSleuth AI
 
 **TalentSleuth AI** is an intelligent, AI-powered candidate assessment platform that streamlines recruitment by autonomously analyzing resumes and public profiles to evaluate candidate-job fit.
@@ -60,7 +56,3 @@ npm start
 
 * This is a hackathon prototype built for **HackVyuha 2025 - Aerowire** challenge.
 * For production use, security and API usage limits should be properly handled.
-
----
-
-Let me know if you want to add screenshots, demo links, or deployment steps!
